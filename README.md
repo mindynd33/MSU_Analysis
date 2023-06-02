@@ -1,7 +1,7 @@
 # Medicare Saturation and Utilization Analysis
 
 ## Objective
-Current Instacart sales are on target, but execs would like to uncover additional information about sales patterns. The task is to perform an initial data and exploratory analysis of some of their data to derive insights and suggest better strategies for improved segmentation.
+This analysis aims to identify patterns and anomalies, while also examining provider saturation in specific geographic areas to detect potential instances of overutilization using Medicare fee for service claims data from 2018-2022.
 
 ## Key Questions
 1. Which states have the highest/lowest utilization rates?
@@ -11,13 +11,13 @@ Current Instacart sales are on target, but execs would like to uncover additiona
 
 ## Data
 This data set comprises of the following: 
-- Medicare part A & B fee for service claims by:
-- county
-- state
-- number of providers
-- number of users
-- number of fee for service beneficiaries
-- some pre-aggregated variables
+  - Medicare part A & B fee for service claims by:
+  - county
+  - state
+  - number of providers
+  - number of users
+  - number of fee for service beneficiaries
+  - some pre-aggregated variables
 
 Open source data from data.cms.gove was used and can be obtained from [here](https://data.cms.gov/summary-statistics-on-use-and-payments/program-integrity-market-saturation-by-type-of-service/market-saturation-utilization-core-based-statistical-areas)
 
