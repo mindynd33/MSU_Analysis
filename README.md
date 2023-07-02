@@ -19,7 +19,7 @@ This data set comprises of the following:
   - number of fee for service beneficiaries
   - some pre-aggregated variables
 
-Open source data from data.cms.gove was used and can be obtained from [here](https://data.cms.gov/summary-statistics-on-use-and-payments/program-integrity-market-saturation-by-type-of-service/market-saturation-utilization-core-based-statistical-areas)
+Open source data from data.cms.gov was used and can be obtained from [here](https://data.cms.gov/summary-statistics-on-use-and-payments/program-integrity-market-saturation-by-type-of-service/market-saturation-utilization-core-based-statistical-areas)
 
 ## Tools
 - pandas and numpy for data analysis
